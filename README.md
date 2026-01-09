@@ -1,13 +1,11 @@
 ---
 title: TrustECG
-emoji: 🌖
-colorFrom: green
-colorTo: blue
+emoji: 🫀
+colorFrom: red
+colorTo: gray
 sdk: gradio
-sdk_version: 6.2.0
-app_file: app.py
+sdk_version: "4.44.1"
+python_version: "3.9"
+app_file: app/app.py
 pinned: false
-license: apache-2.0
 ---
-
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
